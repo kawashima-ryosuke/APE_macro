@@ -1,3 +1,3 @@
 # APE_macro
-1.setup.shを実行
-2.好きなディレクトリでmaketempと入力
+1.SETUP.shを実行
+2.お好みのディレクトリでmaketempと入力
